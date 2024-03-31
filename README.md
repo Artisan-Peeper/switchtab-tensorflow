@@ -7,7 +7,7 @@ This README provides concise instructions for installing dependencies and runnin
 **Cloning this repository**
 - Paste this on terminal in vscode:
 - ```bash 
-  git clone https://github.com/Artisan-Peeper/cam-detector
+  git clone https://github.com/Artisan-Peeper/switchtab-tensorflow
 
 ## Next step
 
